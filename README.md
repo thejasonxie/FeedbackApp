@@ -1,3 +1,8 @@
+# Feedback App
+
+This projected is created by following the [React Front To Back 2022](https://www.udemy.com/course/react-front-to-back-2022/) course by Brad Traversy on Udemy.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
