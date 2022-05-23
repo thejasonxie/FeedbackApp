@@ -2,6 +2,7 @@
 
 This projected is created by following the [React Front To Back 2022](https://www.udemy.com/course/react-front-to-back-2022/) course by Brad Traversy on Udemy.
 
+Live Demo Link: https://gleeful-toffee-e7e3b3.netlify.app/
 
 # Getting Started with Create React App
 
